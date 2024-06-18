@@ -13,9 +13,6 @@
 # Клонирование репозитория
 git clone git@github.com:tampeer4/Test_Practicum.git
 
-# Переход в директорию проекта
-cd Test_Practicum
-
 # Запуск первой задачи
 python first_task.py
 
